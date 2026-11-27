@@ -166,21 +166,22 @@ Exploration et nettoyage d'un jeu de données d'applications Android.
 
 ---
 
+
 <h2>💌 Let's Connect!</h2>
 
 <p align="center">
-  Toujours ravie d'échanger autour de la Data, de l'IA, des mathématiques et des opportunités de collaboration.
+  Toujours ravie d'échanger autour de la Data, de l'IA,
+  des mathématiques et des opportunités de collaboration.
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/aïchatou-traoré-bb59b8287">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-C084FC?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/aichatou-traore-bb59b8287/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-C084FC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="aichatraore162004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-DB2777?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:aichatraore162004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-DB2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
 <h3 align="center">✨ Learning today, building tomorrow. ✨</h3>
 
 <!-- ================= FOOTER ================= -->
